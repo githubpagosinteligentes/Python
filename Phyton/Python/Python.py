@@ -2,7 +2,7 @@ import requests
 import json
 import urllib.request
 from pprint import pprint
-url = "https://apiecommerce.redpagos.co:8530/CheckOut/MethodGenerateTransaction"
+url = "https://apiecommerce.pagosinteligentes.com:8070/CheckOut/MethodGenerateTransaction"
 values={
 "generateTransaction": {
     "security": {
