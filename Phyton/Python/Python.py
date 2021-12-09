@@ -6,8 +6,8 @@ url = "https://apiecommerce.pagosinteligentes.com:8070/CheckOut/MethodGenerateTr
 values={
 "generateTransaction": {
     "security": {
-      "accountId": 30336,
-      "token": "bflMObSMSnyvysHpC72*"
+      "accountId": 30414,
+      "token": "OTalRWWPXzpIyBAst88$"
     },
     "infoPayment": {
       "amount": 1000,
